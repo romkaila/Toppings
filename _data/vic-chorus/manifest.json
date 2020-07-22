@@ -23,6 +23,14 @@
         "id": "https://romkaila.github.io/Toppings/vic-chorus/canvas-1/canvas",
         "type": "Canvas",
         "duration": 70.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://romkaila.github.io/Toppings/vic-chorus/canvas-1/canvas/James-Reany.json",
+            "label": "James Reany"
+          }
+        ],
         "items": [
           {
             "id": "https://romkaila.github.io/Toppings/vic-chorus/canvas-1/paintings",
