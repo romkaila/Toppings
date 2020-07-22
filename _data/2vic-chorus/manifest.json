@@ -23,6 +23,14 @@
         "id": "https://romkaila.github.io/Toppings/2vic-chorus/canvas-1/canvas",
         "type": "Canvas",
         "duration": 70.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://romkaila.github.io/Toppings/2vic-chorus/canvas-1/canvas/test2.json",
+            "label": "test2"
+          }
+        ],
         "items": [
           {
             "id": "https://romkaila.github.io/Toppings/2vic-chorus/canvas-1/paintings",

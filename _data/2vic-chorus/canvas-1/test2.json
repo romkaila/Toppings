@@ -1,0 +1,50 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://romkaila.github.io/Toppings/2vic-chorus/canvas-1/canvas/test2.json",
+  "type": "AnnotationPage",
+  "label": "test2",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://romkaila.github.io/Toppings/2vic-chorus/canvas-1/canvas/test2-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "My annotation goes here: this is where Reaney pauses and laughs",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://romkaila.github.io/Toppings/2vic-chorus/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "504.955486"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://romkaila.github.io/Toppings/2vic-chorus/canvas-1/canvas/test2-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "This is a whole stanza",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://romkaila.github.io/Toppings/2vic-chorus/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "696.331310,1058.331362"
+        }
+      }
+    }
+  ]
+}
